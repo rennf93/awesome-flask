@@ -17,6 +17,7 @@
   - [i18n](#i18n)
   - [Full-text searching](#full-text-searching)
   - [Rate Limiting](#rate-limiting)
+  - [Security](#security)
   - [Task Queue](#task-queue)
   - [Exception tracking](#exception-tracking)
   - [Tracing](#tracing)
@@ -107,6 +108,10 @@
 ## Rate Limiting
 
 - [Flask-Limiter](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
+
+## Security
+
+- [FlaskAPI-Guard](https://github.com/rennf93/flaskapi-guard) - Security library that provides control IPs, log requests, penetration attempts, and much more.
 
 ## Task Queue
 
